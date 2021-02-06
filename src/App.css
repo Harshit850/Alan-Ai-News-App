@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+#root, html, body {
+  height: 100vh;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
